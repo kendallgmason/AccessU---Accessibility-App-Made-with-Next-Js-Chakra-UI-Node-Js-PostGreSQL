@@ -57,6 +57,8 @@
 
 &nbsp; We hope you find this document helpful in understanding the problem we aimed to solve, the solution&nbsp; &nbsp; or app we created to solve this problem, how to install the app, details about what's going on in the &nbsp; &nbsp; &nbsp; &nbsp; code and how to use it.
 
+&nbsp; My contribution with this project is with the design, the idea for the app, spinning up the backend(CRUD routes, etc)/deployment of back and front end, testing using Jest and Cypress, and figuring out some of the logic to make it all work together with some of the others. 
+
 </br></br>
 
 ## ❌ The Problem
