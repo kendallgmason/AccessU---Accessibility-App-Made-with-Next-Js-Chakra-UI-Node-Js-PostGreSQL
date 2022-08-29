@@ -59,6 +59,8 @@
 
 &nbsp; My contribution with this project is with the design, the idea for the app, spinning up the backend(CRUD routes, etc)/deployment of back and front end, testing using Jest and Cypress, and figuring out some of the logic to make it all work together with some of the others. 
 
+To see the fullest showcase of this app, the user data that's currently populated the most is around London/ Soho. So search with these locations for the best experience of what our app can do. 
+
 </br></br>
 
 ## ❌ The Problem
